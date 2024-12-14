@@ -1,7 +1,3 @@
-Here’s a detailed README for your cricket score predictor:
-
----
-
 # Cricket Score Predictor
 
 The **Cricket Score Predictor** is a Python-based machine learning program that uses historical match data to predict the final score of a cricket team. The program employs a **Random Forest Regressor** model to make predictions based on features such as cumulative runs, wickets lost, and current run rate.
